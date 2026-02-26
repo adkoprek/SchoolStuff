@@ -1,0 +1,7 @@
+# Forsetzung Geschichte
+
+"Langsam kommt die Frau auf mich zu, wie eine Forderung, die kein Ausweichen zulässt."
+
+Ich mache einegie Schritte rückwärts, bis ich am äaussersten Rand des Bahnsteiges stehe. Mit einem nächsten Schritt wäre ich ins Leere getreten.
+
+Ich weiche dem Blick aus, diesen Augen, die licht vorstehen und von einem setsamen Grau der Pupillen dominiert werden, suche ihren Namen. Ich versuche mich an die Namen der Frauen zu erinnern, die ich gekannt und aus den Augen verloren habe, zu erinnern. Ihre Stimme, fordernd, unnachsichtlich, ist ablässig da. Ich achtete aber nicht auf ihre Worte, weil ich ein leises, beunruhigendes Geräusch hörte. Erst nach einer Zeit habe ich den Ursprung des Geröusches indentifiziert. Es kam von den Gleisen, ein schwaches Zischen eines heranrasenden Schnellzuges. Mein erster Reflex war es mich nach vorne zu stürzen, jedoch ist die mysteriose Frau in dieser Zeit schon beachtlich näher gekommen, so dass sie mich stoppen könnte.  Als sie immer näher kam, hat eine Lampe ihr Gesicht, in der dunkelheit der Nacht, für eine kurze Zeit erscheinen lassen. Da erkannte ich, dass ich ihres Gesicht am letzten Abend in den Nachrichten gesehen habe, sie war eine gesuchte Kriminelle wegen Mord. In diesem Moment stürtzte sie sich auf mich und ich verlor das Gleichgeweicht. Ich nahm einen Schritt zurück, doch dieser traff ins Leere und ich spürte, wie ich anfieng zu fallen ...  

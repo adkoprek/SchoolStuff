@@ -1,0 +1,1 @@
+Quand je serais très riche je investerais l'argent pour faire une enterprise avec que je peuvoirais faire plus d'argent. Ce argent je ferais un don pour une organisation. Avec le  reste de l'argent je voyagais les peys different sur tout les continents et je choisirais le plus beau pays pour habiter ici. 

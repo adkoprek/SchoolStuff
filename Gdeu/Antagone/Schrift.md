@@ -1,0 +1,1 @@
+Die Piktographische sprache entwickelte sich vor 5'000 Jahren vor Christus und hatten Zeichen, welche Kongruent mit Wörtern und nicht mit Zeichen waren. Diese Schriftvonen etwickelten sich in Mesopotamien und Ägyptrne, um Informationen in Form von einfachen Zeichen und nicht in Form von abstrakten Lauten zu schrieben. Das Alphabet wurde in Phönizier erfunden.

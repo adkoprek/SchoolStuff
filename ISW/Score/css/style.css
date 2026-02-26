@@ -1,0 +1,11 @@
+body {
+    background-color: #fafafa;
+}
+
+form input {
+    display: none;
+}
+
+#start_button {
+    display: none;
+}

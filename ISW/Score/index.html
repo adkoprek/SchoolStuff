@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title></title>
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+    <body>
+        <h1>Forge Your Country</h1>
+        <button onclick="start_3_player()">3 Players</button>
+        <button onclick="start_4_player()">4 Players</button>
+        <form>
+            <input type="text" placeholder="Player 1" id="p0">
+            <input type="text" placeholder="Player 2" id="p1">
+            <input type="text" placeholder="Player 3" id="p2">
+            <input type="text" placeholder="Player 4" id="p3">
+        </form>
+        <button onclick="start()" id="start_button">Let's play</button>
+    </body>
+</html>
+<script>
+    var number_players = 0;
+
+    function start_3_player() {
+        number_players = 3;
+        document.getElementById("p0").style.display = "block";
+        document.getElementById("p1").style.display = "block";
+        document.getElementById("p2").style.display = "block";
+        document.getElementById("p3").style.display = "none";
+        document.getElementById("start_button").style.display = "block";
+    }
+
+    function start_4_player() {
+        number_players = 4;
+        document.getElementById("p0").style.display = "block";
+        document.getElementById("p1").style.display = "block";
+        document.getElementById("p2").style.display = "block";
+        document.getElementById("p3").style.display = "block";
+        document.getElementById("start_button").style.display = "block";
+    }
+
+    function start() {
+        data = []
+        error = false;
+        for (var i = 0; i < 4; i ++) {
+            var x = document.getElementById("p" + i).value;
+            if (number_players == 3 && i == 3) continue;
+            if (x == "") {
+                error = true;
+                document.getElementById("p" + i).style.border = "solid red 1px";
+            }
+            else {
+                document.getElementById("p" + i).style.border = "solid black 1px";
+                data.push(x);
+            }
+        }
+
+        if (error) return;
+        
+        console.log(data)
+    }
+</script>

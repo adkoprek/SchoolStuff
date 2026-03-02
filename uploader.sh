@@ -79,6 +79,27 @@ echo
 # ---------- Summary ----------
 section "Last Commit Summary"
 git log -1 --stat
+echo
+
+# ---------- Push (if possible) ----------
+section "Pushing to Remote"
+
+# Check if a remote exists
+if git remote get-url origin >/dev/null 2>&1; then
+  current_branch=$(git branch --show-current)
+
+  info "Remote detected: origin"
+  info "Branch: $current_branch"
+
+  # Try pushing, but don't fail script if it doesn't work
+  if git push -u origin "$current_branch"; then
+    success "Pushed successfully!"
+  else
+    info "Push failed (no permission, offline, or conflict). Skipping."
+  fi
+else
+  info "No remote repository configured. Skipping push."
+fi
 
 echo
 success "Done 🚀"

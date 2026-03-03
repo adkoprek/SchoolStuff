@@ -1,0 +1,7 @@
+# Presentation
+
+Bonjour, aujourd'hui nous allons vous présenter notre avis sur ce livre et nous allons nous concentrer sur l'aspect de manipulation. 
+
+Maintenant, je vais vous expliquer comment Anne a manipulé les autres personnages dans le texte. Nous pouvons observer qu'Anne ne les a pas manipulés directement, mais elle a utilisé ses autres capacités. Nous pouvons observer dans le texte qu'Anne a été décrite comme une femme intelligente et qui était arrêtée dans ses opinions. Je vais lire un court passage pour le montrer. [Read Passage] Le mode de vie de Raymond n'est pas approprié pour un homme de son âge pense Anne. La présence d'Anne donc la lui a rappée. Par son comportement Anne a créé pression et culpabilité pour Raymond de changer sa vie.
+
+Maintenant, je vais essayer d'expliquer pourquoi on peut manipuler des hommes. L'histoire commence à notre cerveau qui a tendance à essayer de ne pas penser beaucoup, car l'ignorance est plus facile que penser par nous-mêmes. À ce causé, nous croyons parfois les choses qu'une autre personne nous raconte. Quand un manipulateur nous dit des choses que nous savons inconsciemment, c'est aussi plus probable pour notre cerveau de traiter ces informations comme des faits. Le manipulateur peut aussi renforcer ces mensonges quand il joue avec les sentiments d'une autre personne. Chaque aspect de manipulation que j'ai décrit ici, nous pouvons observer dans le texte.

@@ -1,0 +1,3 @@
+[submodule "Ginf/EIBE/TransVis"]
+	path = Ginf/EIBE/TransVis
+	url = https://github.com/adkoprek/TransVis.git
